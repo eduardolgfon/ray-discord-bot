@@ -10,4 +10,4 @@ I remember this bot used Node 12 and later Node 14.
 
 Also check `src/json/config.json` for filling tokens and setting things up.
 
-good LOCK. (it's intentional
+good LOCK. (it's intentional)
