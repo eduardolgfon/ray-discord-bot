@@ -1,0 +1,68 @@
+{
+	"add": {
+		"title": "Muchas gracias ;3",
+		"desc": "Hola, {{author}}, ¡muchas gracias por agregarme a `{{guild}}`! Si necesita ayuda, puede usar el comando `{{prefix}}ayuda` en cualquier servidor en el que esté o aquí en mi DM. Tenga en cuenta que necesito todos mis permisos para funcionar correctamente (el permiso de administrador es opcional)",
+		"urls": "**[Invitarme a otros servidores 🌎] ({{invite}}) | [Vote por mí] (https://top.gg/bot/777938917117919255/vote) | [Entre en mi servidor] ({{support}})**",
+		"footer": "Cada servidor es muy especial para mi =]"
+	},
+	"command-null": "No pude encontrar ningún comando llamado `{{comando}}` o similar, ¿le gustaría ver mi lista de comandos?",
+	"command-suggestion": "No pude encontrar ningún comando con el nombre `{{comando}}`, ¿quiso decir `{{cmd}}`?",
+	"not-work-in-threads": "¡Vaya, este comando no funciona en threads! Pruébelo en un chat normal.",
+	"permnull": "Ninguna",
+	"cooldown": {
+		"title": "{{stop}} CALMA ALLÍ MI JEFE {{stop}}",
+		"message": "{{negado}} | Estás ejecutando comandos demasiado rápido, espera `{{time}}` para ejecutar otro comando de nuevo.",
+		"gif": "https://media.discordapp.net/attachments/788376558271201290/791369724109127730/tenor.gif",
+		"secounds": "segundos",
+		"milliseconds": "unos milisegundos"
+	},
+	"dev": "{{negado}} | Eres débil, te falta estar en mi equipo para ejecutar este comando",
+	"manutencao": {
+		"title": " Comando desactivado ",
+		"desc": "Este comando ha sido desactivado temporalmente por mi equipo.\n**Razón:** {{reason}}",
+		"geralTitle": " ¡Oh no, mantenimiento! ",
+		"geralDesc": "Vaya, parece que llegaste justo cuando yo estaba en mantenimiento, ¡pero relájate! En 5 o 10 minutos estaré de regreso."
+	},
+	"footer": {
+		"f1": "📌 Utilice {{prefix}}ayuda para obtener más información",
+		"f2": "{{ray}} fue creada por {{owner}}",
+		"f3": "📌 Utilice {{prefix}}ayuda {Nombre del comando} para aprender a usar un comando",
+		"f4": "📌 También puedes usar {{prefix}}avatar light {@Usuario/ID} si tu conexión es lenta."
+	},
+	"erro": {
+		"title": "{{shorin}} Él pasante pasó por aquí {{pika}}",
+		"desc": "Oh no, este comando no funciona\n\nMi equipo está trabajando para solucionarlo, pero si no se soluciona en las próximas 24 horas, ingrese en mi  **[Servidor de soporte]({{support}})** e informe el error"
+	},
+	"enzo": {
+		"msg": "Conoce a Enzo",
+ 		"agradecimento": "Personas que agradecieron a Enzo:",
+ 		"final": "Gracias a {{participantes}} \nEnzo estaba feliz, pero Enzo solo tiene 1 botella de agua, así que le dará esa botella a {{ganhador}} y volverá más tarde para ofrecerle agua nuevamente"
+	},
+	"noargs": {
+        "thumb": "https://media.discordapp.net/attachments/788376558271201290/816183379435192330/noargs.thumb.gif",
+        "title": "{{hum}} Hay algo mal aquí {{hum}}",
+		"field": "{{negado}} | Forma correcta de usar este comando:",
+		"aliases": "Sinónimos:",
+		"ex": "Ejemplo de uso:"
+    },
+	"mention": "**¡Hola! Soy {{client}}, si necesitas ayuda puedes usar el comando `{{prefix}}ayuda` en cualquier servidor en el que esté o en mi DM. (Prefijo personalizable por usuario) **",
+	"easteregg": {
+		"thumb": "https://media.discordapp.net/attachments/788376558271201290/816183918319239218/imagem.png",
+		"title": "Descubriste un easteregg!"
+	},
+	"cats-false": "{{member}} no tiene suficientes gatos tristes para hacer esto",
+ 	"no-cats": "No hay gatos tristes {{sadcat2}}",
+	"image": {
+		"loading": "Generando imagen...",
+		"complete": "Imagen cargada"
+	},
+	"have-a-suggestion": "¡Hola! Espero que estés disfrutando de mis funciones: blush:, si tienes alguna sugerencia sobre cómo podemos mejorar, puedes enviarla en cualquier momento a través del comando `{{prefix}}sugerencia`",
+	"mendingu": "Este es un mensaje lindo y de vanguardia que está aquí para pedirle que vote por mí en tog.gg si le gustaron mis funciones. <a:right_arrow:787491026830229534> <https://top.gg/bot/777938917117919255/vote> <a:heart3:785503994654752778> \nGanará **el triple** de gatos tristes en el diario cada vez que vote ;3",
+	"very-webhooks": "Este canal está lleno de webhooks, elimine algunos para que este comando funcione correctamente",
+	"confirm": {
+		"yes": "Sí",
+		"no": "No",
+		"enable": "Activado",
+		"disabled": "Desactivado"
+	  }
+}

@@ -1,0 +1,69 @@
+{
+	"antiflood": "You are sending messages too fast! take a breath before sending more",
+	"add": {
+		"title": "Thank you ;3",
+		"desc": "Hey {{author}}, thanks so much for adding me to `{{guild}}`! If you need help you can use the `{{prefix}}help` command on any server I'm on or here in my DM. Please keep in mind that I need all my permissions to work correctly (Admin permission is optional)",
+        "urls": "**[Invite me to other servers 🌎]({{invite}}) | [Vote for me](https://top.gg/bot/777938917117919255/vote) | [Join in my server]({{support}})**",
+		"footer": "Each server is very special to me =]"
+	},
+	"command-null": "I couldn't find any command named `{{command}}` or similar, would you like to see my list of commands?",
+	"command-suggestion": "I couldn't find any command with the name `{{command}}`, did you mean `{{cmd}}`?",
+	"not-work-in-threads": "Oops, this command doesn't work on threads! Please try it in a normal chat",
+	"permnull": "None",
+	"cooldown": {
+		"title": "{{stop}} CALM THERE MY BOSS {{stop}}",
+		"message": "{{negado}} | You are executing commands too fast, wait `{{time}}` to execute another command again.",
+		"gif": "https://media.discordapp.net/attachments/788376558271201290/791369724109127730/tenor.gif",
+		"secounds": "seconds",
+		"milliseconds": "a few milliseconds"
+	},
+	"dev": "{{negado}} | You are weak, you lack to be on my team to execute this command",
+	"manutencao": {
+		"title": " Disabled command ",
+		"desc": "This command has been temporarily disabled by my team.\n**Reason:** {{reason}}",
+		"geralTitle": " Oh no, maintenance! ",
+		"geralDesc": "Oops, it looks like you arrived just as I'm in maintenance, but relax! In 5 or 10 minutes I will be back."
+	},
+	"footer": {
+		"f1": "📌 Use {{prefix}}help for more information",
+		"f2": "{{ray}} was created by {{owner}} ",
+		"f3": "📌 Use {{prefix}}help {Command Name} to learn how to use a command",
+		"f4": "📌 You can also use {{prefix}}avatar light {@User/ID} if your connection is slow"
+	},
+	"erro": {
+		"title": "{{shorin}} The intern came by {{pika}}",
+		"desc": "Oh no, this command is malfunctioning\n\nMy team is working to fix it but if it is not fixed within the next 24 hours please enter my **[Support Server]({{support}})** and report the error, there was an error in the error ¯\\_(ツ)_/¯"
+	},
+	"enzo": {
+		"msg": "Meet Enzo",
+		"agradecimento": "People who thanked Enzo:",
+		"final": "Thanks to {{participantes}}\nEnzo was happy, but Enzo only has 1 bottle of water, so he will give that bottle to {{ganhador}} and will come back later to offer water again."
+	},
+	"noargs": {
+        "thumb": "https://media.discordapp.net/attachments/788376558271201290/816183379435192330/noargs.thumb.gif",
+        "title": "{{hum}} There is something wrong here {{hum}}",
+		"field": "{{negado}} | Correct way to use this command:",
+		"aliases": "Aliases:",
+		"ex": "Example of use:"
+    },
+	"mention": "**Hello! I'm {{client}}, if you need help you can use the `{{prefix}}help` command on any server I'm on or in my DM! (Per-user customizable prefix)**",
+	"easteregg": {
+		"thumb": "https://media.discordapp.net/attachments/788376558271201290/816183918319239218/imagem.png",
+		"title": "You discovered an easteregg!"
+	},
+	"cats-false": "{{member}} doesn't have enough sad cats to do this",
+	"no-cats": "No Sad Cats {{sadcat2}}",
+	"image": {
+		"loanding": "Generating image...",
+		"complete": "Image uploaded"
+	},
+	"have-a-suggestion": "Hi! I hope you're enjoying my :blush: features, if you have any suggestions on how we can improve, you can send them anytime via the `{{prefix}}suggestion` command",
+	"mendingu": "This is a cute, cutting-edge message that is here to ask you to vote for me on tog.gg if you liked my features. <a:seta_direita:787491026830229534> <https://top.gg/bot/777938917117919255/vote> <a:coracao3:785503994654752778>\nYou will earn triple of sad cats in the daily every time you vote ;3",
+	"very-webhooks": "This channel is full of webhooks, please delete some for this command to work correctly",
+	"confirm": {
+		"yes": "Yes",
+		"no": "No",
+		"enable": "Enable",
+		"disabled": "Disable"
+	  }
+}

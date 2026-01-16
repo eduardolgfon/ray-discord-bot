@@ -1,0 +1,500 @@
+{    "           COMANDOS DE DIVERSÃO            ": "",
+    "cj": {
+        "1": "Yes",
+        "2": "No",
+        "3": "Of course",
+        "4": "Of course not",
+        "5": "YES!",
+        "6": "NO!",
+        "7": "Maybe...",
+        "8": "I don’t know",
+        "9": "Obviously yes",
+        "10": "Obviously not",
+        "11": "Obviously not",
+        "12": "Of course",
+        "13": "For sure",
+        "14": "Out of the question",
+        "15": "You can bet that",
+        "16": "I wouldn't believe that ...",
+        "17": "Probably yes",
+        "18": "Probably not",
+        "19": "Maybe in a parallel universe",
+        "20": "Only on the day that Queen Elizabeth dies",
+        "21": "Man, I have never been SO serious in my life, my answer is ... Yes!",
+        "22": "Man, I have never been SO serious in my life, my answer is ... No!",
+        "23": "God willing",
+        "24": "Never",
+        "25": "Never",
+        "26": "Certainly",
+        "27": "I'm in doubt ...",
+        "28": "Can you stop pissing me off?",
+        "29": "Your mother",
+        "30": "Shit, here we go again",
+        "help": "Enhanced version of Vieirinha of Loritta with over 30 different responses.",
+        "usage": "{question}",
+        "ex": "Are we going to conquer Jerusalem?"
+    },
+    "coinflip": {
+        "cara": "Head",
+        "coroa": "Tail",
+        "flip": "Rotating the Coin...",
+        "help": "Play heads or tails.",
+        "usage": "",
+        "ex": ""
+    },
+    "gay": {
+        "title": "Hum Are you a GAY...MER?",
+        "desc": "**{{member}} is {{value}}% gay according to my calculations**",
+        "help": "Find out how gay someone is.",
+        "usage": "{@User}",
+        "ex": "@Ray™"
+    },
+    "hack": {
+        "f1": "🌐 Searching for the user on the internet... {{carregando}}",
+        "f2": "📌 User found... {{autorizado}}",
+        "f3": "⚠️️ Stealing user's IP address... {{carregando}}",
+        "f4": "📛 Dropping External Connections... {{carregando}}",
+        "f5": {
+            "title": "⚠️️ Connections Dropped:",
+            "desc": "**VPN:       {{autorizado}}\nFirewall:     {{autorizado}}\nAntivirus:       {{autorizado}}**\n"
+        },
+        "f6": "User Hacked Successfully {{autorizado}}",
+        "f7": "⬇️ Collecting All User Data... ⬇️",
+        "f8": "Network error! Impossible to download data! {{negado}}",
+        "f9": "Connection Reestablished! Trying again... {{carregando}}",
+        "f15": {
+            "author": "User Information",
+            "id": "🖥️ User ID:",
+            "email": "📨 E-mail:",
+            "senha": "🔐 Password:",
+            "ip": "❗ IP address:",
+            "status": "Status"
+        },
+        "on": "{{emoji}} Online",
+        "dnd": "{{emoji}} Do not disturb",
+        "off": "{{emoji}} Offline",
+        "idle": "{{emoji}} Idle",
+    
+        "progress": "**{{carregando2}} Progress: {{carregando2}}",
+        "adm": "Has active administrator permission {{autorizado}}",
+        "not-adm": "do not have active administrator permission {{negado}}",
+        "webfr": {
+            "f1": "Hi guys",
+            "f2": "I hacked the {{vitima}} lol",
+            "f3": "Faltered, Hackerman cloned",
+            "f4": "👀"
+        },
+        "help": "Hack a user and get information.",
+        "usage": "{@User}",
+        "ex": "@Ray™"
+    },
+    "say": {
+        "help": "Make me say any Thing with the quote meme.",
+        "usage": "{message}",
+        "ex": "Good Morning"
+    },
+    "userfake": {
+        "help": "Create a fake message with a user's name.",
+        "usage": "{@User} {message}",
+        "ex": "@Ray™ Have you voted for Ray today?"
+    },
+
+    "       COMANDOS DE CONFIG E INFO       ": "",
+    "botinfo": {
+        "title": "{{dev}} Bot Information {{dev}}",
+        "desc": "{{info}} **{{ray}}** {{info}}",
+        "version": "Current version",
+        "discord": "Discord.js {{discordjs}}",
+        "uptime": "Uptime 🗓️",
+        "memory": "Memory 🎞️",
+        "cpu-status": "CPU 🖥️",
+        "system": "OS",
+        "cpu": "Processor Model",
+        "shard": "Current Shard {{cristal}}",
+        "quser": "Users 👥",
+        "qserver": "Servers 🌎",
+        "help": "See some information about me.",
+        "usage": "",
+        "ex": ""
+    },
+    "commands": {
+        "title": "{{comunism}} OUR {{comunism}} commands",
+        "desc": "**{{red_ruby}} Fun - [{{funCount}}]\nㅤ{{red_arrow}} `React with` > {{fodar}} <\n\n{{red_ruby}} Social - [{{socialCount}}]\nㅤ{{red_arrow}} `React with` > {{sadcat1}} <\n\n{{red_ruby}} Information and Configuration - [{{configCount}}]\nㅤ{{red_arrow}} `React with` > {{info}} <\n\n{{red_ruby}} Other Utilities - [{{utilCount}}]\nㅤ{{red_arrow}} `React with` > {{dev}} <**",
+        "MLN": "See commands in your language?",
+        "fun": "{{fodar}} Fun {{fodar}}",
+        "image": "{{pato}} Image Manipulation {{pato}}",
+        "config": "{{info}} Configuration and Information {{info}}",
+        "music": "{{batida}} Music {{batida}}",
+        "util": "{{dev}} Other Utilities {{dev}}",
+        "help": "See OUR list of commands.",
+        "usage": "",
+        "ex": ""
+    },
+    "settings": {
+        "prefixDesc": "My prefix for you is `{{prefix}}`\nDo you want to change it?",
+        "prefix-succeedTitle": "Prefix successfully changed ",
+        "prefix-succeedDesc": "Now your prefix is `{{prefix}}`",
+        "prefixQuestionTitle": "What will be the new prefix?",
+        "prefixQuestionDesc": "Submit now what will be my new prefix",
+        "replyDesc": "I will reply and react to some messages if I activate this option {{emoji}}\nDo you want to activate it?",
+        "replyYes": "Whenever you wake up I'll be here to say good morning ",
+        "replyNo": "I promise I won't bother you anymore ",
+        "desc": "Click a button below to choose a setting.",
+        "settings": "Settings",
+        "partner": "Apply for partnership",
+        "reply": "Automatic Responses and Reactions",
+        "lang": "Language",
+        "prefix": " Prefix ",
+        "back": "Back"
+      },
+    "statistics": {
+        "author": "Detailed Statistics",
+        "desc": "**Total number of Commands executed by category:**",
+        "f1": "User [{{author}}]",
+        "f1b": "{{c}}",
+        "f2": "Bored Cooldowns 🚫",
+        "f2b": "{{cooldum}}",
+        "f3": "Fun {{bacana}}",
+        "f3b": "{{fct}}",
+        "f4": "Info and Configuration {{dev}}",
+        "f4b": "{{cct}}",
+        "f5": "Image Manipulation {{pato}}",
+        "f5b": "{{ict}}",
+        "f6": "Social {{sadcat1}}",
+        "f6b": "{{socialCount}}",
+        "f7": "Utilities {{info}}",
+        "f7b": "{{uct}}",
+        "f8": "Extras {{cristal}}",
+        "f8b": "────────────────────────────",
+        "f9": "Total commands executed on this server:",
+        "f9b": "{{gc}}",
+        "help": "See user/server usage information.",
+        "usage": "{Nothing/@User/User ID}",
+        "ex": "@Ray™"
+    },
+    "help": {
+        "title": "Hello {{author}}",
+        "desc": "**I am the {{ray}}, a bot focused on fun and utilities to help and entertain you and your server**",
+        "field1": "{{red_ruby}} Important informations",
+        "field1b": "**ㅤ{{dev}} Prefix (individual and customizable): >`{{prefix}}`<\nㅤ🌎 Change prefix and language:: `{{prefix}}config`\nㅤ{{comunism}} OUR {{comunism}} command list: `{{prefix}}commands`**",
+        "field2": "{{red_ruby}} Colonize more servers!",
+        "field2b": "**Help me colonize more servers by clicking __[→HERE←]({{invite}})__**",
+        "field3": "{{red_ruby}} Need more help?",
+        "field3b": "**Join on my support server clicking __[→HERE←]({{support}})__**",
+        "args-null": "Sorry, but I couldn't find this command",
+        "help": "See OUR help menu",
+        "usage": "",
+        "ex": ""
+    },
+    "helpc": {
+        "title": "{{info}} {{name}} Command Information {{info}}",
+        "desc": "**Description:**\n{{desc}}",
+        "field": "\n{{autorizado}}  |  How you should use this command:\n",
+        "ex": "\n{{lampada}}  |  Example of how to use:\n",
+        "aliases": "\n{{info}}  |  Aliases of this command:\n",
+        "cperms": "\n{{martelo}}  |  Permissions I need to run this command:\n",
+        "uperms": "\n{{martelo}}  |  Permissions the User needs to execute this command:\n" 
+    },
+    "invite": {
+        "title": "Help me to colonize more servers",
+        "desc": "Take me with you wherever you go .... Wait, except in the bathroom OK? If you want to invite me to another server click right **__[→HERE←]({{invite}})__**\nIt will be helping me a lot ;3",
+        "help": "Invite me to another server :)",
+        "usage": "",
+        "ex": ""
+    },
+    "language": {
+        "title": "🇺🇸 Now I'm trilingual 🇧🇷 🇪🇸",
+        "desc": "My default language to converse with you is `{{lang}}`. If you want to exchange choose an option below\n\n🇧🇷 `Português - Brasil`\n🇺🇸 `English - USA`\n🇪🇸 `Spanish - Spain`\n🇫🇷 `Français - France` [Coming soon]",
+        "footer": "Some translations may not be 100% correct",
+        "help": "Change the language I should speak to you.",
+        "usage": "",
+        "ex": ""
+    },
+    "ping": {
+        "title": "{{carregando}} Calculating Ping {{carregando2}}",
+        "help": "See my response time.",
+        "usage": "",
+        "ex": ""
+    },
+    "prefix": {
+        "autorizado": "{{autorizado}} | Changed prefix",
+        "desc": "**Your prefix has been changed to `{{prefix}}`**",
+        "limit": "** | Your prefix can only be up to 3 characters long**",
+        "help": "change my prefix for you.",
+        "usage": "{prefixo}",
+        "ex": "r."
+    },
+    "vote": {
+        "title": "Are you looking to earn some rewards and still help me?",
+        "desc": "If you vote for me on tog.gg I will give you some good rewards ... What do you think? It seems like an equivalent exchange (Wait, I'm not a loan shark!) \nLink for you to vote: https://top.gg/bot/777938917117919255/vote\n\nBy voting you will get:\n- 3x sad cats daily\n- more coming soon (do you have any suggestions? `{{prefix}}suggest`)",
+        "help": "See my link to give me votes uwu.",
+        "usage": "",
+        "ex": ""
+    },
+    "       COMANDOS DE IMAGEM      ": "",
+    "barry": {
+        "help": "Create a meme of Barry in front of a headstone",
+        "usage": "{message/@User message}",
+        "ex": "@Ray™️ competition",
+        "img": ""
+    },
+    "clyde": {
+        "usage": "{message}",
+        "help": "Create a Clyde message.",
+        "ex": "Your account will be banned forever in 24h if you do not deposit 100k in the account below",
+        "img": "https://media.discordapp.net/attachments/788376558271201290/816181796609196032/unknown.png"
+    },
+    "cmm": {
+        "help": "Create a Change My Mind meme image",
+        "usage": "{message}",
+        "ex": "Godzilla is better than Kong.",
+        "img": ""
+    },
+    "deception": {
+        "help": "Create a meme from Philip of Futurama by reading something and getting sad",
+        "usage": "{message/@User message}",
+        "ex": "@Ray™ You were rejected by Top.gg for the thirtieth time.",
+        "img": ""
+    },
+    "hackerman": {
+        "help": "Create an image of the Hackerman with avatar",
+        "usage": "{Nothing/@User}",
+        "ex": "@James_HackermanGamepl4ys123",
+        "img": ""
+    },
+    "resize": {
+        "pobreza": "~Ya, yamete kudasai! If your photo is too big I will end up running out of ram :(\nThat's why my developers set a limit of 1280 pixels for the maximum resolution you can resize;)",
+        "error": "I was unable to resize this image, please make sure the link is correct or the image has a readable format (PNG, JPG, JPEG, etc.)",
+        "help": "Resize any image",
+        "usage": "{height} {width} {Link}",
+        "ex": "500 750 https://image.png",
+        "img": ""
+    },
+    "shithead": {
+        "help": "Create an image of a person with poop in the head saying something",
+        "usage": "{message}",
+        "ex": "Kong is stronger than Godzilla",
+        "img": ""
+    },
+    "stonks": {
+        "help": "Create a Stonks meme with avatar",
+        "usage": "{@User}",
+        "ex": "@Ray™️",
+        "img": ""
+    },
+    "       COMANDOS DE SOCIAL     ": "",
+    "background": {
+        "title": "Do you want to change your profile background?",
+        "desc": "This will cost you **{{sadcat4}} {{value}} {{sadcat6}} sad cats**, do you really want to change your profile background? Your profile will look like this:\n\nNOTE: **If your background contains explicit sexual content you will be banned from using Ray for a week**",
+        "error": "I couldn't save your background, this could be because the image doesn't have a compatible format or it's too big\n\nNo sad cats were taken from your account ",
+        "help": "Change the wallpaper that will be displayed in your profile",
+        "usage": "{image/link}",
+        "ex": "https://link.da.imagem.png/"
+    },
+    "bet": {
+        "title": "Sad Cats Bet ",
+        "desc": "{{member}}, {{author}} wants to bet **{{value}} sad cats** with you, to place the bet you need to click on the reaction below.",
+        "gainDesc": "{{ganhador}} won the bet of **{{value}} sad cats**",
+        "no-mention": "You can't bet sad cats with yourself, if you're out of friends to bet with, you can bet with me ^-^",
+        "cancelTitle": "Bet canceled",
+        "cancelDesc": "{{user}} canceled sad cats bet",
+        "help": "Bet sad cats with your friends",
+        "usage": "{@User} {value}",
+        "ex": "@Ray 1616"
+    },
+    "daily": {
+        "Title1": "Just begging for some crumbs ",
+        "desc1": "If you [vote for me]({{url}}) before taking your daily, you will get **triple sad cats**, but if you wanted to take your daily now just click on the sad cat below \nClick [→HERE←]({{url}}) to vote",
+        "title": "Time to adopt some kittens ",
+        "desc": "You have adopted **{{sadcat1}}  {{cats}}   {{sadcat4}} sad cats**, now you have {{totalCats}} sad kittens, take good care of them or they will cry {{sadcat5}}\n\nYou can adopt sad cats every 12 hours, and don't forget to be punctual and don't keep them waiting or they'll be sad {{sadcat6}}\n\n**If you want me to let you know when I can adopt sad cats again, pet the kitten down here ;3**",
+        "claim_now": "Claim now",
+        "click_vote": "Vote",
+        "giveTitle": "Jeez, an overload of kittens OwO",
+        "giveDesc": " **| Hey, calm down, there are no more kittens for you to adopt, you already took them all. {{sadcat1}}**\n\nWait until the next delivery of sad cats arrives in **{{time}}**, or ⚡ speed up ⚡ delivery by join on **[My Server]** ;3",
+        "alert": "Hey hey you there you can catch more sad cats again! `,daily` ;)",
+        "alertStart": "Now I'll let you know when I can adopt more kittens ^-^",
+        "help": "Adopt more sad cats every 12 hours",
+        "usage": "",
+        "ex": ""
+    },
+    "description": {
+        "title": "Description changed ",
+        "desc": "Your profile description has been changed to `{{desc}}`",
+        "help": "Change the description that will be displayed in your profile",
+        "usage": "{message}",
+        "ex": "change the world, my final message, goodbye."
+    },
+    "divorce": {
+        "title": "The end of a love story ",
+        "desc": "{{author}}, it looks like things didn't work out for you, but don't be discouraged, you'll eventually find someone who really deserves to be by your side :heart:\nAre you sure you want to divorce {{marry}}?",
+        "yesDesc": "{{author}} and {{marry}} are going to go their separate ways now, I hope this is better for both of them ",
+        "error": "But you're not married to anybody, only if you part with your soul, but I wouldn't say that's very healthy ",
+        "help": "Can't stand to put up with the person you married anymore? End your problems once and for all",
+        "usage": "",
+        "ex": ""
+    },
+    "catstransations": {
+        "title": "💸 Adoption history ",
+        "desc": "Here are all the latest sad cat moves from {{member}}",
+        "no-data": "{{member}} hasn't moved any sad cats yet.",
+        "type1": "{{stonks}} Won `{{value}}` sad cats on `{{prefix}}daily`",
+        "type2": "{{pepesadcat}} Spent `{{value}}` sad cats for wallpaper on `{{prefix}}background`",
+        "type3": "{{stonks}} Won `{{value}}` sad cats on bets with `{{fetchUser}}`",
+        "type4": "{{pepesadcat}} Lost `{{value}}` sad cats on bets with `{{fetchUser}}`",
+        "type5": "{{pepesadcat}} Sent `{{value}}` sad cats to `{{fetchUser}}` via `{{prefix}}pay`",
+        "type6": "{{stonks}} Received `{{value}}` sad cats from `{{fetchUser}}`",
+        "footer": "Page {{page}}/{{total}}",
+        "help": "View sad cats transaction history",
+        "usage": "{Anything/@User}",
+        "ex": "@Ray"
+    },
+    "marry": {
+        "traicao": "Hey, you're already married, good guy! Don't even think about cheating on {{marry}} with someone else ",
+        "traicao2": "{{member}} is already married, don't interfere in other people's relationships you rude",
+        "marryMessage": "{{author}} is trying to betray you with {{member}} {{shorin}} 💔",
+        "marryMessage2": "{{author}} is trying to marry her partner {{member}} {{shorin}} 💔",
+        "disableAlert": "Click here to no longer receive this message",
+        "title": " A proposal of marriage... ",
+        "desc": "{{member}}, do you agree to marry {{author}} and promise to love him, in joy and sadness, in health and illness, in wealth or poverty?",
+        "yesTitle": "Congratulations to the couple!",
+        "yesDesc": "Congratulations, you are now married, I hope you are very happy with your partner :heart:",
+        "noTitle": "Wedding canceled ",
+        "noDesc": "Oh, the party is over! {{clicker}} pretended to faint to escape the wedding ",
+        "help": "Ask for the love of your life in marriage and ~~be rejected~~ be happy :)",
+        "usage": "{@User/ID}",
+        "ex": "Ray"
+    },
+    "pay": {
+        "title": " Waiting confirmation... ",
+        "desc": " **| To confirm the exchange of sad cats, you need to click on the reaction below **",
+        "confirmTitle": "Kittens successfully sent ",
+        "confirmDesc": "{{author}} sent **{{value}} sad cats** for {{member}}\nThat means you don't want them anymore?",
+        "cancelTitle": " Transaction canceled ",
+        "cancelDesc": "**Someone didn't accept the kittens, now they're sad they were turned away **",
+        "authorMention": "You can't give yourself sad cats, after all, they're already yours. .-.",
+        "help": "Transfer sad cats to other people, pay your bills!",
+        "usage": "{@User} {value}",
+        "ex": "@Ray 1616"
+    },
+    "profile": {
+        "commands": "Commands",
+        "position": "Position",
+        "desc": "You can define a description for your profile with the command {{prefix}}description",
+        "help": "See your ✨ profile ✨",
+        "usage": "{Any/@User/ID}",
+        "ex": ""
+    },
+    "sadcats": {
+        "title": " Sad Cats Catalog ",
+        "desc": "{{member}} has {{sadcat2}}  **{{cats}}**  {{sadcat6}} sad cats {{sadcat1}}",
+        "help": "See the amount of sad cats of anyone",
+        "usage": "{Nothing/@User/User ID}",
+        "ex": "@Ray"
+    },
+    "sadtop": {
+        "title": "Sad Cats Global Rank",
+        "desc": "You are in {{authorPosition}}th position in the global rank",
+        "help": "See the global rank of sad cats",
+        "usage": "",
+        "ex": ""
+    },
+
+    "       COMANDOS MÚSICA        ": "",
+    "play": {
+        "": ""
+    },
+    "findmusic": {
+        "incompatible": "Unsupported file format, I can only find music in videos and audios (mp3, mp4)",
+        "not-found": "Sorry, I couldn't find any music :(",
+        "error": "There was an error in the recognition server, I couldn't find your music :(",
+        "download": "Downloading file...",
+        "finding": "Looking for music...",
+        "info": "Music Information:",
+        "name": "Name:",
+        "duration": "Duration:",
+        "producion": "Producer:",
+        "date": "Release date:",
+        "artists": "Artists:",
+        "album": "Album:"
+    },
+
+    "       COMANDOS UTILITÁRIOS        ": "",
+    "avatar": {
+        "title": "Avatar of {{member}}",
+        "download": "Image link: [PNG]({{png}}) | [JPG]({{jpg}}) | [GIF]({{gif}}) | [WEBP]({{webp}})",
+        "ray": "\n\n**Did you know that my art was made by [@AoiOgataArt](https://twitter.com/AoiOgataArt)? Go there on his 🐦︎ Twitter 🐦︎ ;3**",
+        "light": " (Avatar in view for weaker connections)\n",
+        "help": "See a user's avatar",
+        "usage": "{@User/ID} or light {@User/ID}",
+        "ex": "@Ray™"
+    },
+    "calculate": {
+        "title": "📈 Calculator 🖩",
+        "help": "Make mathematical equations, but don't use this command to necklace in test >:c",
+        "usage": "{number} {mathematical symbol} {number} (To multiply use {number} * {number} and to divide use {number} / {number})",
+        "ex": "[(22 x 16 - 333 + 23) ÷ 6 +14] * 2"
+    },
+    "survey": {
+        "title": "SURVEY",
+        "result": "Poll Result",
+        "footer": "Time for the poll to end: {{tempo}} minutes",
+        "two": "Option 1: {{one}}\nOption 2: {{two}}\n",
+        "three": "Option 3: {{three}}\n",
+        "four": "Option 4: {{four}}\n",
+        "five": "Option 5: {{five}}\n",
+        "limit": "{{stop}} | Calm down my brother, you are creating too many polls, wait for some to end",
+        "time": "The poll time can only be between 1 and 10 minutes",
+        "reactions": "You can only create polls with a maximum of 5 options",
+        "help": "Create polls with reactions",
+        "usage": "{number of options} {poll duration in minutes} {message}",
+        "ex": "2 10 Who's better, Godzilla or Kong?"
+    },
+    "bump": {
+        "cool": {
+            "desc": "**{{negado}} Você já solicitou que eu te notificasse! Espere até o tempo acabar para solicitar novamente, se quiser cancelar digite `{{prefix}}bump cancel`**"
+        },
+        "embed1": {
+            "title": "!d bump",
+            "desc": "**O Bump está disponível novamente! Use {{prefix}}bump para que eu te avise de novo**"
+        },
+        "embed2": {
+            "title": "VOCÊ SERÁ AVISADO!",
+            "desc": "**Daqui a 2 horas eu vou te lembrar de usar o bump novamente**"
+        },
+        "cancel": {
+            "title": "Notificar Bump Cancelado",
+            "desc": "**Se quiser ativar de novo use {{prefix}}bump**"
+        },
+        "bot": {
+            "desc": "**Digite {{prefix}}bump se quiser que eu te avise em 2 horas quando o bump estiver disponível novamente**"
+        },
+        "usage": "",
+        "ex": ""
+    },
+    "morse": {
+        "title": "🎓 Morse translator 🎓",
+        "help": "Convert text to morse and vice versa",
+        "usage": "{ray/.-. .- -.--}",
+        "ex": ".. / ..-. ..- -.-. -.- . -.. / - .... . / .- ... ... / --- ..-. / - .... --- ... . / .-- .... --- / .- .-. . / .-. . .- -.. .. -. --."
+    },
+    "report": {
+        "title": "Thank you for collaborating with me ;)",
+        "desc": "{{autorizado}} | Your message has been sent to my team and it will be reviewed shortly, **but keep in mind that abuse of this command can result in a ban.** {{martelo}}",
+        "help": "Report bugs/errors or problems",
+        "usage": "{message}",
+        "ex": "I am reporting that the bug reporting command is not working"
+    },
+    "suggest": {
+        "title": "{{autorizado}} Suggestion sent successfully",
+        "desc": "Thank you for helping me to be better with every ~~update~~ day in, your opinion is very important to me and my team {{emoji}}",
+        "help": "Send your suggestions to my OwO team",
+        "usage": "{message}",
+        "ex": "Add a command that creates a meme from Stonks and translate Ray into more languages"
+    },
+    "translate": {
+        "title": "🌎 Translator 🎓",
+        "help": "Translate text into any language",
+        "usage": "{language} {test}",
+        "ex": "en Eu odeio creepers ❤️"
+    }
+}

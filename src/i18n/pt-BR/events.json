@@ -1,0 +1,68 @@
+{
+	"add": {
+		"title": "Muito obrigada :)",
+		"desc": "Hey {{author}}, muito obrigada por me adicionar em `{{guild}}`! Se você precisar de ajuda pode usar o comando `{{prefix}}ajuda` em qualquer servidor que eu esteja ou aqui na minha DM. Por favor tenha em mente que eu necessito de todas as minhas permissões para funcionar corretamente (A permissão de Administrador é opcional)",
+		"urls": "**[Me convide para outros servidores 🌎]({{invite}}) | [Vote em mim](https://top.gg/bot/777938917117919255/vote) | [Entre no meu servidor]({{support}})**",
+		"footer": "Cada servidor é muito especial para mim =]"
+	},
+	"command-null": "Não consegui encontrar nenhum comando com o nome `{{command}}` ou parecido, você gostaria de ver a minha lista de comandos?",
+	"command-suggestion": "Não consegui encontrar nenhum comando com o nome `{{command}}`, você quis dizer `{{cmd}}`?",
+	"not-work-in-threads": "Ops, este comando não funciona em threads! Por favor tente em um chat normal",
+	"permnull": "Nenhuma",
+	"cooldown": {
+		"title": "{{stop}} CALMA LÁ MEU PATRÃO {{stop}}",
+		"message": "{{negado}} | Você está executando comandos muito rápido, espere `{{time}}` para executar outro comando novamente.",
+		"gif": "https://media.discordapp.net/attachments/788376558271201290/791369724109127730/tenor.gif",
+		"secounds": "segundos",
+		"milliseconds": "alguns milissegundos"
+	},
+	"dev": "{{negado}} | Você é fraco, lhe falta ser da minha equipe para executar esse comando",
+	"manutencao": {
+		"commandTitle": " Comando desativado ",
+		"commandDesc": "Este comando foi temporáriamente desativado pela minha equipe\n**Motivo:** {{reason}}",
+		"geralTitle": " Ah não, manutenção! ",
+		"geralDesc": "Ops, parece que você chegou justamente na hora em que estou em manutenção, mas relaxe! Em 5 ou 10 minutos eu estarei de volta."
+	},
+	"footer": {
+		"f1": "📌 Utilize {{prefix}}ajuda para mais informações",
+		"f2": "{{ray}} foi criada por {{owner}}",
+		"f3": "📌 Utilize {{prefix}}ajuda {Nome do Comando} para saber como usar um comando",
+		"f4": "📌 Você também pode usar {{prefix}}avatar light {@Usuário/ID} se a sua conexão está lenta"
+	},
+	"erro": {
+		"title": "{{shorin}} O estagiário passou por aqui {{pika}}",
+		"desc": "Ah não, este comando está com mal funcionamento\n\nA minha equipe está trabalhando para conserta-lo mas se ele não for corrigido nas próximas 24h por favor entre no meu **[Servidor de Suporte]({{support}})** e informe o erro, vai que deu erro no erro ¯\\_(ツ)_/¯"
+	},
+	"enzo": {
+		"msg": "Conheça Enzo",
+		"agradecimento": "Pessoas que agradeceram ao Enzo:",
+		"final": "Graças à {{participantes}}\nEnzo ficou feliz, mas Enzo só tem 1 garrafa de água, então ele vai dar essa garrafa para {{ganhador}} e voltará mais tarde para oferecer água de novo."
+	},
+	"noargs": {
+		"thumb": "https://media.discordapp.net/attachments/788376558271201290/816183379435192330/noargs.thumb.gif",
+		"title": "{{hum}} Tem algo de errado aqui {{hum}}",
+		"field": "{{negado}} | Forma correta de usar esse comando:",
+		"aliases": "Sinônimos:",
+		"ex": "Exemplo de uso:"
+	},
+	"mention": "**Olá! Eu sou a {{client}}, se precisar de ajuda pode usar o comando `{{prefix}}ajuda` em qualquer servidor que eu esteja ou na minha DM! (Prefixo personalizável por usuário)**",
+	"easteregg": {
+		"thumb": "https://media.discordapp.net/attachments/788376558271201290/816183918319239218/imagem.png",
+		"title": "Você descobriu um easteregg!"
+	},
+	"cats-false": "{{member}} não tem sad cats suficientes para fazer isso",
+	"no-cats": "Sem Sad Cats {{sadcat2}}",
+	"image": {
+		"loading": "Gerando imagem...",
+		"complete": "Imagem carregada"
+	},
+	"have-a-suggestion": "Olá! Espero que esteja gostando das minhas funcionalidades :blush:, caso tenha alguma sugestão de como podemos melhorar, pode envia-la a qualquer momento pelo comando `{{prefix}}sugestão`",
+	"mendingu": "Esta é uma mensagem fofinha de última geração que está aqui para pedir que você vote em mim na tog.gg caso tenha gostado das minhas funcionalidades. <a:seta_direita:787491026830229534> <https://top.gg/bot/777938917117919255/vote> <a:coracao3:785503994654752778>\nVocê ganhará o **triplo** de sad cats no daily sempre que votar ;3",
+	"very-webhooks": "Este canal está lotado de webhooks, por favor apague alguns para que este comando funcione corretamente",
+	"confirm": {
+		"yes": "Sim",
+		"no": "Não",
+		"enable": "Ativado",
+		"disabled": "Desativado"
+	}
+}
